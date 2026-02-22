@@ -1,0 +1,114 @@
+Issue 1 – Mapa y ubicación del usuario
+## 📌 Descripción del Bug
+El mapa no muestra correctamente los puntos de recogida ni la ubicación del usuario.
+
+## 🔎 Pasos para reproducir
+1. Abrir la aplicación Urban Lunch.
+2. Ir a la pantalla inicial del mapa.
+3. Observar que no se muestra la ubicación del usuario ni los puntos de recogida.
+
+## 📱 Entorno de prueba
+- Dispositivo: Honor API 28 / Galaxy A3 / Galaxy J2
+- Sprint: 6to Sprint QA
+
+## ⚠️ Severidad
+- [x] Baja
+
+## 📎 Enlace relacionado
+- Jira: [ULAS-4](https://kibagud.atlassian.net/browse/ULAS-4)
+
+## ✅ Evidencia
+- Captura de pantalla adjunta
+
+----
+Issue 2 – Pantalla de detalles del platillo (Diseño)
+## 📌 Descripción del Bug
+La pantalla de detalles del platillo no muestra correctamente el diseño esperado (foto, descripción general, composición y restaurante).
+
+## 🔎 Pasos para reproducir
+1. Seleccionar un platillo en la lista.
+2. Acceder a la pantalla de detalles.
+3. Observar que faltan elementos visuales o información.
+
+## 📱 Entorno de prueba
+- Dispositivo: Honor API 28 / Galaxy A3 / Galaxy J2
+- Sprint: 6to Sprint QA
+
+## ⚠️ Severidad
+- [x] Media
+
+## 📎 Enlace relacionado
+- Jira: [ULAS-5](https://kibagud.atlassian.net/browse/ULAS-5)
+
+## ✅ Evidencia
+- Captura de pantalla adjunta
+
+----
+Issue 3 – Botón "+" en detalles del platillo
+## 📌 Descripción del Bug
+El botón "+" en la pantalla de detalles del platillo no agrega el platillo a la lista de pedidos.
+
+## 🔎 Pasos para reproducir
+1. Seleccionar un platillo en la lista.
+2. Acceder a la pantalla de detalles.
+3. Presionar el botón "+".
+4. Observar que el platillo no se agrega al pedido.
+
+## 📱 Entorno de prueba
+- Dispositivo: Honor API 28 / Galaxy A3 / Galaxy J2
+- Sprint: 6to Sprint QA
+
+## ⚠️ Severidad
+- [x] Baja
+
+## 📎 Enlace relacionado
+- Jira: [ULAS-6](https://kibagud.atlassian.net/browse/ULAS-6)
+
+## ✅ Evidencia
+- Captura de pantalla adjunta
+
+----
+Issue 4 – Pantalla “El pedido ha sido enviado” (Mapa)
+## 📌 Descripción del Bug
+En la pantalla "El pedido ha sido enviado" el mapa no muestra el punto de recogida deseado.
+
+## 🔎 Pasos para reproducir
+1. Completar un pedido.
+2. Esperar a que aparezca la pantalla "El pedido ha sido enviado".
+3. Observar que el mapa no muestra el punto de recogida.
+
+## 📱 Entorno de prueba
+- Dispositivo: Honor API 28 / Galaxy A3 / Galaxy J2
+- Sprint: 6to Sprint QA
+
+## ⚠️ Severidad
+- [x] Media
+
+## 📎 Enlace relacionado
+- Jira: [ULAS-7](https://kibagud.atlassian.net/browse/ULAS-7)
+
+## ✅ Evidencia
+- Captura de pantalla adjunta
+
+----
+Issue 5 – Pantalla “El pedido ha sido enviado” (Notificación
+## 📌 Descripción del Bug
+La notificación en la pantalla "El pedido ha sido enviado" no cumple con los requisitos: falta texto grande, dirección del punto de recogida y advertencia de recoger antes de que se enfríe.
+
+## 🔎 Pasos para reproducir
+1. Completar un pedido.
+2. Esperar a que aparezca la pantalla "El pedido ha sido enviado".
+3. Observar que la notificación no contiene la información requerida.
+
+## 📱 Entorno de prueba
+- Dispositivo: Honor API 28 / Galaxy A3 / Galaxy J2
+- Sprint: 6to Sprint QA
+
+## ⚠️ Severidad
+- [x] Muy baja
+
+## 📎 Enlace relacionado
+- Jira: [ULAS-8](https://kibagud.atlassian.net/browse/ULAS-8)
+
+## ✅ Evidencia
+- Captura de pantalla adjunta
